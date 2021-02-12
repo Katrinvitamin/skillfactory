@@ -21,3 +21,10 @@ Git commit - -amend переименовать файл
 Git stash list список сохраненных изменений
 Git stash pop вернуть изменение
 Git Restore восстановить изменения
+
+Git branch
+git checkout
+Vim
+Git add
+Git status
+git checkout -
